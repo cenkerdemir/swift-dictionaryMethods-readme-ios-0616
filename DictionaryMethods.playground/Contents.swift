@@ -132,7 +132,7 @@ if emptyDictionary.isEmpty {
 
 
 
-// RETRIEVING KEYS
+// RETRIEVING ALL KEYS
 
 let planetNames = Array(planetsAndTheirMoons.keys)
 
@@ -142,7 +142,7 @@ for planet in planetsAndTheirMoons.keys {
 
 
 
-// RETRIEVING VALUES
+// RETRIEVING ALL VALUES
 
 let allTheMoons = Array(planetsAndTheirMoons.values)
 
